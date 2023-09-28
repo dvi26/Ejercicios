@@ -32,6 +32,7 @@ public class Ej7 {
 		// System out + variable suma para decir el valor total en centimetros
 		sc.close();
 		// Cierro el scanner
+
 	}
 
 }

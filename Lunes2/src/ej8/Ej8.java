@@ -14,6 +14,7 @@ public class Ej8 {
 		double descuento;
 		final double infantiles = 15.50;
 		final double adultos = 20;
+		// Declaro las variables
 		Scanner sc = new Scanner(System.in);
 		// Abro el scanner
 		System.out.println("Introduzca la cantidad de entradas de adulto: ");

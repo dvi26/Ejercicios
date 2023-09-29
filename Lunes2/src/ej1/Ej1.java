@@ -21,7 +21,7 @@ public class Ej1 {
 		// Creo variable que le sume 1 a la parte entera para la condicional
 		int a= (comprobación <= decimal?aprox:entera);
 		/* Creo variable condicional que dice que si la parte entera + 0,5 es menor 
-		 * o igual que la parte decimal, de la variable aprox (+1), y si no es menor
+		 * o igual que el numero decimal, da la variable aprox (+1), y si no es menor
 		 * o igual de la parte entera truncada
 		 */
 		System.out.println("Su número redondeado es: " + a);

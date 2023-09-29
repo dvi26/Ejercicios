@@ -7,6 +7,7 @@ public class Ej3 {
 	public static void main(String[] args) {
 		int entero1;
 		int entero2;
+		// declaro las variables
 		Scanner sc = new Scanner(System.in);
 		// Abro el scanner
 		System.out.println("Introduzca un número entero: ");
